@@ -1,6 +1,6 @@
 <h1>Bunnies</h1>
 
-<p>The program is an OpenGL engine based on the articles by <a href="https://twitter.com/JoeyDeVriez">Joey de Vries</a> in <a href="https://learnopengl.com/">https://learnopengl.com/</a> under the terms of the <a href="https://creativecommons.org/licenses/by/4.0/">CC BY-NC 4.0</a>.</p>
+<p>The program is an graphical game based on the articles by <a href="https://twitter.com/JoeyDeVriez">Joey de Vries</a> in <a href="https://learnopengl.com/">https://learnopengl.com/</a> under the terms of the <a href="https://creativecommons.org/licenses/by/4.0/">CC BY-NC 4.0</a>.</p>
 
 <p>A simple game for kids. You're supposed to avoid pyramids and collect all the bunnies. If you hit pyramids you lose points, collecting bunnies will add them.</p>
 
